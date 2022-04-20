@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emimilio
 - 👀 I’m interested in programing hehe
 - 🌱 I’m currently learning programing hehe
-- 💞️ I’m looking to collaborate on programers hehhe (@willybiggains)
+- 💞️ I’m looking to collaborate with programers hehhe (@willybiggains)
 - 📫 How to reach me tinder ;)
 
 <!---
