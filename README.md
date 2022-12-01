@@ -6,7 +6,7 @@
 
 - My projects : 
                - I am currently working on my own chess game and chess bot. The code for this project will be available soon :)
-               - I have also started a 2x2 rubik's cube solver.
+                               - I have also started a 2x2 rubik's cube solver.
 
 - My interests : Since I am only in my first year of university. I still have a lot to discover but if there is one thing about programming that stands out for me, it's the development of algorithms/artificial intelligence. Although I have very low experience in this domain, it is hard for me to describe the satisfaction of creating a bot or algorithm that is able to solve a difficult problem.
 
