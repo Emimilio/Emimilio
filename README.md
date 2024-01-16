@@ -7,7 +7,7 @@
 - My projects : 
 -      - I am currently working on 3D racing game made with unity
 -      - I am very interested by AI and neural networks and have started a tutorial to learn more and get a better idea of how they are implemented in code.
--          - the tutorial I am folowing is this one --> https://www.youtube.com/playlist?list=PLpcNcOt2pg8k_YsrMjSwVdy3GX-rc_ZgN 
+-      - the tutorial I am folowing is this one --> https://www.youtube.com/playlist?list=PLpcNcOt2pg8k_YsrMjSwVdy3GX-rc_ZgN 
 
 <!---
 Emimilio/Emimilio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
