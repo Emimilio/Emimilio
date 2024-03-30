@@ -1,3 +1,5 @@
+# hi
+
 - 👋 Hi, I’m Emilio Lemus AKA @Emimilio
 
 - About me : I’m currently a second year student in software engineering at University Laval.
